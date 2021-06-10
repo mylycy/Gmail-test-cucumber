@@ -44,9 +44,9 @@ public class LoginSteps {
 	public void user_enters_username_and_password() {
 		
 		driver.findElement(By.xpath("//input[@id='identifierId']")).sendKeys("testcyan1@gmail.com");
-		driver.findElement(By.id("identifierProximo")).click();
+		driver.findElement(By.id("//*[@id=\"identifierNext\"]/div/button/div[2]")).click();
 		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("Test@123456");
-        driver.findElement(By.id("passwordProximo")).click();
+        driver.findElement(By.id("//*[@id=\"passwordNext\"]/div/button/span")).click();
 		
 		
 				
