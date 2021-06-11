@@ -5,10 +5,18 @@ Este é o repositorio do desafio da empresa Cyan para tester.
 
 <br />
 
+## Mapa do Repositório
+
+
+![Captura de tela de 2021-06-10 23-53-02](https://user-images.githubusercontent.com/83430469/121624026-24927980-ca47-11eb-9001-971c08e9c14e.png)
+
+
+
+<br />
 
 # Apresentação
 
-Este repositorio contem o codigo de teste para o sistema de login via gmail/google.
+#### Este repositório contem o código de teste para o sistema de login via gmail/google.
 
 
 <br />
@@ -42,13 +50,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Java](https://www.java.com/pt-BR/)
 - [Selenium](https://www.selenium.dev//)
 
-<br />
 
-### Componentes para instalação
-
-
-
-<br />
 <br />
 
 # Observações
