@@ -23,14 +23,13 @@ este codigo foi feito com o Cucumber + Selenium em JAVA no Eclipse.
 <br />
 Test
 
-
-
+![Gravação de tela de 10-06-2021 17_58_20](https://user-images.githubusercontent.com/83430469/121613910-f0618d80-ca33-11eb-9f03-67c02bf31eee.gif)
 
 <br />
 
-parte 2
 
-!
+![Gravação de tela de 10-06-2021 18_07_01](https://user-images.githubusercontent.com/83430469/121613935-fb1c2280-ca33-11eb-9103-99a5c875edb6.gif)
+
 
 <br />
 <br />
@@ -39,23 +38,14 @@ parte 2
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [JavaScript](https://www.javascript.com/)
-- {APIGoogle} (https://cloud.google.com/)
+- [Cucumber](https://cucumber.io//)
+- [Java](https://www.java.com/pt-BR/)
+- [Selenium](https://www.selenium.dev//)
+
 <br />
 
 ### Componentes para instalação
 
-``` $ npm install```
-
-``` $ npm i node```
-
-``` $ npm i react-dom```
-
-### Para inicializar da apliacação
-
-``` $ npm start ```
 
 
 <br />
@@ -63,8 +53,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 # Observações
 
-Para a criação do sistema foi necessario criar uma Api de credenciais do Google. Feito isso com sucesso. 
+O sistema que foi usado no teste esta neste [LINK](https://github.com/mylycy/gmailsystem)
 
-Eu fiz o deploy deste sistema no heroku no link [Sistema](https://gmail-login-system.herokuapp.com/)
+Deploy do sistema no heroku no link -> [Sistema](https://gmail-login-system.herokuapp.com/)
 
-### Para os testes segue o link de sua documentação, codigo e Readme - [LINK](https://github.com/mylycy/Gmail-test-cucumber/tre
+
+
+
